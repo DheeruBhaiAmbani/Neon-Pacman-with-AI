@@ -20,7 +20,7 @@ A modern, neon-styled Pacman game featuring advanced AI-powered ghosts with dyna
 ### Quick Start
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/DheeruBhaiAmbani/Neon-Pacman-with-AI
 cd Neon-Pacman-with-AI
 
 # Run the setup script
